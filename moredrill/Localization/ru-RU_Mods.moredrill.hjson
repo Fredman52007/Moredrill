@@ -1,0 +1,78 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	leaddrill: {
+		DisplayName: Свинцовый бур
+		Tooltip: ""
+	}
+
+	cactusdrill: {
+		DisplayName: Кактусовый бур
+		Tooltip: ""
+	}
+
+	cooperdrill: {
+		DisplayName: Медный бур
+		Tooltip: ""
+	}
+
+	crimsondrill: {
+		DisplayName: Багряный бур
+		Tooltip: ""
+	}
+
+	irondrill: {
+		DisplayName: Железный бур
+		Tooltip: ""
+	}
+
+	silverdrill: {
+		DisplayName: Серебряный бур
+		Tooltip: ""
+	}
+
+	tindrill: {
+		DisplayName: Оловяный бур
+		Tooltip: ""
+	}
+
+	tungstendrill: {
+		DisplayName: Вольфрамовый бур
+		Tooltip: ""
+	}
+
+	moltendrill: {
+		DisplayName: Раскалёный бур
+		Tooltip: " Очень горячий!"
+	}
+
+	nightmaredrill: {
+		DisplayName: Кошмарный бур
+		Tooltip: ""
+	}
+
+	golddrill: {
+		DisplayName: Золотой бур
+		Tooltip: ""
+	}
+
+	platinumdrill: {
+		DisplayName: Платиновый бур
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	crimsondrillproj.DisplayName: crimsondrillproj
+	cactusdrillproj.DisplayName: cactusdrillproj
+	copperdrillproj.DisplayName: copperdrillproj
+	irondrillproj.DisplayName: irondrillproj
+	leaddrillproj.DisplayName: leaddrillproj
+	silverdrillproj.DisplayName: silverdrillproj
+	tindrillproj.DisplayName: tindrillproj
+	tungestaldrillproj.DisplayName: tungestaldrillproj
+	moltendrillproj.DisplayName: moltendrillproj
+	nightmaredrillproj.DisplayName: nightmaredrillproj
+	golddrillproj.DisplayName: golddrillproj
+	platinumdrillproj.DisplayName: platinumdrillproj
+}

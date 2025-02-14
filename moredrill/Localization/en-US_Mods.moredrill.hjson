@@ -1,0 +1,78 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	leaddrill: {
+		DisplayName: Lead drill
+		Tooltip: ""
+	}
+
+	cactusdrill: {
+		DisplayName: Cactus drill
+		Tooltip: ""
+	}
+
+	cooperdrill: {
+		DisplayName: Cooper drill
+		Tooltip: ""
+	}
+
+	crimsondrill: {
+		DisplayName: Crimson drill
+		Tooltip: ""
+	}
+
+	irondrill: {
+		DisplayName: Iron drill
+		Tooltip: ""
+	}
+
+	silverdrill: {
+		DisplayName: Silver drill
+		Tooltip: ""
+	}
+
+	tindrill: {
+		DisplayName: Tin drill
+		Tooltip: ""
+	}
+
+	tungstendrill: {
+		DisplayName: Tungsten drill
+		Tooltip: ""
+	}
+
+	moltendrill: {
+		DisplayName: Molten drill
+		Tooltip: ""
+	}
+
+	nightmaredrill: {
+		DisplayName: Nightmare drill
+		Tooltip: ""
+	}
+
+	golddrill: {
+		DisplayName: Golden drill
+		Tooltip: ""
+	}
+
+	platinumdrill: {
+		DisplayName: Platinum drill
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	crimsondrillproj.DisplayName: crimsondrillproj
+	cactusdrillproj.DisplayName: cactusdrillproj
+	copperdrillproj.DisplayName: copperdrillproj
+	irondrillproj.DisplayName: irondrillproj
+	leaddrillproj.DisplayName: leaddrillproj
+	silverdrillproj.DisplayName: silverdrillproj
+	tindrillproj.DisplayName: tindrillproj
+	tungestaldrillproj.DisplayName: tungestaldrillproj
+	moltendrillproj.DisplayName: moltendrillproj
+	nightmaredrillproj.DisplayName: nightmaredrillproj
+	golddrillproj.DisplayName: golddrillproj
+	platinumdrillproj.DisplayName: platinumdrillproj
+}

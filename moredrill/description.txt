@@ -1,0 +1,17 @@
+This mod adds new drills to the game. Now, at each stage of the game, 
+fans of this tool will be able to craft a drill for themselves. 
+Here are their variations:
+1. Cactus drill 
+2. The copper drill 
+3. Tin drill 
+4. The Iron Drill 
+5. Lead drill 
+6. Silver drill 
+7. Tungsten drill 
+8. The Golden Drill 
+9. Platinum Drill 
+10. The Nightmare Drill 
+11. The Crimson Drill 
+12. molten drill
+13. golem drill (comming soon!)
+calamity addon (comming soon!)
