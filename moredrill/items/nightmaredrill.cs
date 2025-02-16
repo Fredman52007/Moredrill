@@ -19,8 +19,8 @@ namespace moredrill.items
             Item.DamageType = DamageClass.MeleeNoSpeed;
             Item.width = 46;
             Item.height = 22;
-            Item.useTime = 8;
-            Item.useAnimation = 8;
+            Item.useTime = 7;
+            Item.useAnimation = 7;
             Item.pick = 70;    //лнымнярэ АСПЮ
             Item.knockBack = 6;
             Item.tileBoost += 1;

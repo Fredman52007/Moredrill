@@ -19,8 +19,8 @@ namespace moredrill.items
             Item.DamageType = DamageClass.MeleeNoSpeed;
             Item.width = 46;
             Item.height = 22;
-            Item.useTime = 5;
-            Item.useAnimation = 5;
+            Item.useTime = 7;
+            Item.useAnimation = 7;
             Item.pick = 100;    //МОЩНОСТЬ бура
             Item.knockBack = 6;
             Item.tileBoost += 1;
@@ -43,7 +43,7 @@ namespace moredrill.items
         public override void AddRecipes()
         {
             Recipe recipe = Recipe.Create(Type); // Создаем новый рецепт
-            recipe.AddIngredient(ItemID.HellstoneBar, 25);// Компоненты рецепта
+            recipe.AddIngredient(ItemID.HellstoneBar, 20);// Компоненты рецепта
             recipe.AddTile(TileID.Anvils); // Место для крафта
             recipe.Register(); // Регистрация рецепта
         }
